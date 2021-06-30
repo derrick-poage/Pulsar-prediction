@@ -1,2 +1,2 @@
 # Pulsar-prediction
-The purpose of this project is to determine whether machine learning can be used to predict pulsars, based on specific data points. 
+The purpose of this project is to determine whether machine learning can reliably be used to predict pulsars. This project uses single tree models, random forest models, and hyperparameter tuning to build the most accurate model. 
